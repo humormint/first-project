@@ -11,6 +11,9 @@
 </br>
 
 ## 2. 사용 기술
+#### `Front-end`
+  - Vue.js 3.0
+  - Element UI
 #### `Back-end`
   - Java 8
   - Spring Boot 2.3
@@ -21,9 +24,6 @@
   - MySQL 5.7
   - Spring Security
   - Jsoup
-#### `Front-end`
-  - Vue.js 3.0
-  - Element UI
 
 </br>
 
